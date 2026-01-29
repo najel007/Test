@@ -15,3 +15,4 @@ chore: install testing dependencies
 feat: write initial deployment script
 feat: Deploy contract to Base testnet
 docs: document deployment steps
+feat: add contract ABI export
