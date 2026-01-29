@@ -50,3 +50,4 @@ chore: clean unused assets
 style: standardize color palette
 feat: add dark mode toggle
 feat: add transaction confirmation modal
+fix: handle rejected wallet requests
