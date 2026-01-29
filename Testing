@@ -44,3 +44,4 @@ feat: implement stake tokens flow
 feat: implement unstake tokens flow
 fix:  correct staking reward calculation
 refractor: improve staking logic readability
+feat: add rewards dashboard
