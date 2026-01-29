@@ -12,3 +12,4 @@ refractor: clean up environment variables handling
 feat: create smart contract template
 feat: add Hardhat configuration
 chore: install testing dependencies
+feat: write initial deployment script
