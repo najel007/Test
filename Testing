@@ -47,3 +47,4 @@ refractor: improve staking logic readability
 feat: add rewards dashboard
 docs: update staking documentation
 chore: clean unused assets
+style: standardize color palette
