@@ -18,3 +18,4 @@ docs: document deployment steps
 feat: add contract ABI export
 feat: build contract interaction helper
 fix: handle wallet connection errors
+refractor: simplify provider setup
