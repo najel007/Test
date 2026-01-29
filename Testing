@@ -6,3 +6,4 @@ feat: set up Base network configuration
 feat: install ethers.js dependency
 feat: create wallet connection module
 feat: add MetaMask connection button
+style: improve folder organization
