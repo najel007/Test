@@ -54,3 +54,4 @@ fix: handle rejected wallet requests
 feat: implement gas estimation
 refractor: extract utility functions
 chore: add linting configuration
+style: apply ESLint fixes
