@@ -28,3 +28,4 @@ fix: correct balance formatting
 feat: add transaction history view
 refractor: extract reusable hooks
 chore: update dependencies
+docs: add contribution guide
