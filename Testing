@@ -19,3 +19,4 @@ feat: add contract ABI export
 feat: build contract interaction helper
 fix: handle wallet connection errors
 refractor: simplify provider setup
+feat: create dashboard layout
