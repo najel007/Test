@@ -17,3 +17,4 @@ feat: Deploy contract to Base testnet
 docs: document deployment steps
 feat: add contract ABI export
 feat: build contract interaction helper
+fix: handle wallet connection errors
