@@ -10,3 +10,4 @@ style: improve folder organization
 docs: add setup instructions
 refractor: clean up environment variables handling
 feat: create smart contract template
+feat: add Hardhat configuration
