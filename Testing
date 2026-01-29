@@ -52,3 +52,4 @@ feat: add dark mode toggle
 feat: add transaction confirmation modal
 fix: handle rejected wallet requests
 feat: implement gas estimation
+refractor: extract utility functions
