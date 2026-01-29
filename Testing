@@ -21,3 +21,4 @@ fix: handle wallet connection errors
 refractor: simplify provider setup
 feat: create dashboard layout
 feat: add responsive navbar
+style: improve button styling
