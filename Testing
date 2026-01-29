@@ -24,3 +24,4 @@ feat: add responsive navbar
 style: improve button styling
 feat: add wallet status indicator
 feat: fetch on-chain balance
+fix: correct balance formatting
