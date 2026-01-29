@@ -43,3 +43,4 @@ feat: add staking contract integration
 feat: implement stake tokens flow
 feat: implement unstake tokens flow
 fix:  correct staking reward calculation
+refractor: improve staking logic readability
