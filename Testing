@@ -35,3 +35,4 @@ feat: add loading spinner
 feat: add toast notifications
 refractor: modularity contract calls
 test: add unit tests for helpers
+feat: add network switcher
