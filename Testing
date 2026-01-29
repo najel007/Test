@@ -40,3 +40,4 @@ fix: resolve chain ID mismatch
 feat: add Base mainnet support
 perf: optimize render performance
 feat: add staking contract integration
+feat: implement stake tokens flow
