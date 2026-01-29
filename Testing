@@ -25,3 +25,4 @@ style: improve button styling
 feat: add wallet status indicator
 feat: fetch on-chain balance
 fix: correct balance formatting
+feat: add transaction history view
