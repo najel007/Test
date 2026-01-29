@@ -32,3 +32,4 @@ docs: add contribution guide
 feat: implement token transfer function
 fix: prevent duplicate transactions
 feat: add loading spinner
+feat: add toast notifications
