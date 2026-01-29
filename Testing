@@ -2,3 +2,4 @@ README.md
 feat: Initialize project structure
 chore: add README with project overview
 chore: configure .gitignore
+feat: set up Base network configuration
