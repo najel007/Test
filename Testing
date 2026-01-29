@@ -48,3 +48,5 @@ feat: add rewards dashboard
 docs: update staking documentation
 chore: clean unused assets
 style: standardize color palette
+feat: add dark mode toggle
+feat: add transaction confirmation modal
