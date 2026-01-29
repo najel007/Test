@@ -8,3 +8,4 @@ feat: create wallet connection module
 feat: add MetaMask connection button
 style: improve folder organization
 docs: add setup instructions
+refractor: clean up environment variables handling
