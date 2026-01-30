@@ -81,3 +81,4 @@ perf: cache Metadata requests
 fix: broken image fallback
 feat: add notifications center
 feat: enable wallet auto-reconnect
+refactor: improve routing structure
