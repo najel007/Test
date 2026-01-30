@@ -68,3 +68,4 @@ refactor: improve state management
 feat: add global content provider
 test: add integration tests
 feat: add error boundary component
+chore: bump version to v0.2.0
