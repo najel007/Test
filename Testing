@@ -95,3 +95,4 @@ refactor: simplify async flows
 chore: remove console logs
 feat: add export transaction CSV
 docs: update changelog
+perf: reduce bundle size
