@@ -85,3 +85,4 @@ refactor: improve routing structure
 chore: update package lock
 feat: add environment config for staging
 fix: correct build warnings
+feat: implement CI pipeline
