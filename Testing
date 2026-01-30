@@ -73,3 +73,4 @@ feat: add NFT minting contract
 feat: create mint UI form
 fix: validate mint inputs
 feat: upload Metadata to IPFS
+feat: display minted NFTs gallery
