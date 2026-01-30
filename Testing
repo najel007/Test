@@ -60,3 +60,4 @@ feat: display ENS/Base name if available
 fix: mobile layout overflow issue
 perf: lazy load heavy components
 feat: add analytics tracking
+docs: update architecture diagram
