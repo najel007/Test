@@ -77,3 +77,4 @@ feat: display minted NFTs gallery
 refactor: abstract IPFS service
 docs: add NFT usage examples
 feat: add pagination to gallery
+perf: cache Metadata requests
