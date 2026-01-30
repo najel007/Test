@@ -70,3 +70,4 @@ test: add integration tests
 feat: add error boundary component
 chore: bump version to v0.2.0
 feat: add NFT minting contract
+feat: create mint UI form
