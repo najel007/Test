@@ -65,3 +65,4 @@ feat: add admin panel scaffold
 feat: restrict admin routes
 fix: secure environment secrets
 refactor: improve state management
+feat: add global content provider
