@@ -97,3 +97,4 @@ feat: add export transaction CSV
 docs: update changelog
 perf: reduce bundle size
 feat: add Base branding assets
+fix: minor UI bugs
