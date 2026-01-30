@@ -62,3 +62,4 @@ perf: lazy load heavy components
 feat: add analytics tracking
 docs: update architecture diagram
 feat: add admin panel scaffold
+feat: restrict admin routes
