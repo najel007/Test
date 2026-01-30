@@ -90,3 +90,4 @@ test: add deployment smoke tests
 docs: improve README screenshots
 feat: add footer with links
 feat: add multi-wallet support
+fix: resolve race condition on connect
