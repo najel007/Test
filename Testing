@@ -67,3 +67,4 @@ fix: secure environment secrets
 refactor: improve state management
 feat: add global content provider
 test: add integration tests
+feat: add error boundary component
