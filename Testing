@@ -75,3 +75,4 @@ fix: validate mint inputs
 feat: upload Metadata to IPFS
 feat: display minted NFTs gallery
 refactor: abstract IPFS service
+docs: add NFT usage examples
