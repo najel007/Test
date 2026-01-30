@@ -79,3 +79,4 @@ docs: add NFT usage examples
 feat: add pagination to gallery
 perf: cache Metadata requests
 fix: broken image fallback
+feat: add notifications center
