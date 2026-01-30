@@ -56,3 +56,4 @@ refractor: extract utility functions
 chore: add linting configuration
 style: apply ESLint fixes
 feat: add copy-to-clipboard address
+feat: display ENS/Base name if available
