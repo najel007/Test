@@ -92,3 +92,4 @@ feat: add footer with links
 feat: add multi-wallet support
 fix: resolve race condition on connect
 refactor: simplify async flows
+chore: remove console logs
